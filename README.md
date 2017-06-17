@@ -1,2 +1,2 @@
 # datasciencecoursera
-Git Hub Repo for Data Science Courser
+Git Hub Repo for Data Science Course
